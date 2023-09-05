@@ -1,2 +1,2 @@
-Hey all! 
-I am a big time MMA fan and I am trying to scrape UFC data and perform some sort of an analysis on them! 
+# Hey all! 
+I am a big time MMA fan and I am trying to scrape UFC data and perform some sort of an analysis on them! I utilized chatGPT to help me write the code to scrape data from the UFC stats website. With the right prompts and some changes here and there, I must say it did a really good job. I'm still learning to code and I'm new to all this data stuff, so if you have any feedback or pointers on how I can structure this analysis, it will be much appreciated! 
